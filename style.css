@@ -5,11 +5,10 @@
 #imagem {
  text-align: center;
 }
-
-.mosquito {
+#mosquito {
     text-align: bold;
     text-decoration-color:  #c26861;
 }
-.tabela1{
+#tabela1{
     border: 10% round;
 }
