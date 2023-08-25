@@ -9,3 +9,11 @@
     text-align: bold;
     text-decoration-color:  #c26861;
 }
+.tabela1{
+    border: 1px solid #c26861;
+    border-collapse: ;
+}
+th, td {
+    padding: 5px 10px;
+
+}
