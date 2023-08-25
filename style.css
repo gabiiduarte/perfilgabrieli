@@ -10,5 +10,7 @@
     text-decoration-color:  #c26861;
 }
 .tabela1{
-    border-style: round;
+    border: 2px solid #c26861;
+  border-radius: 12px;
+  padding: 5px;
 }
