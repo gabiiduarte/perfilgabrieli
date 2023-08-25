@@ -2,7 +2,10 @@
     background-color: #eff0e3;
     font-family: Arial, Helvetica, sans-serif;
 }
-
 #imagem {
  text-align: center;
+}
+.tabela1 {
+    text-align: bold;
+    text-decoration-color:  #c26861;
 }
