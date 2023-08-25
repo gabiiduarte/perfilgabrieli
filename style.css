@@ -11,5 +11,6 @@
 }
 .tabela1{
     border-color: #c26861;
+    table-layout: fixed;
 
 }
