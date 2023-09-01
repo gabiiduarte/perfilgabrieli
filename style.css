@@ -67,3 +67,6 @@ color c{
     padding: 2px;
     text-align: center;
 }
+#figure img{
+    border: 50%;
+}
