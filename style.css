@@ -55,10 +55,10 @@ color c{
     color: #ff9900;
 }
 #figure{
-    border: 1px solid #cccccc;
+    border: 1px  #cccccc solid;
     margin: auto;
     width: 50%;
-    padding: 4px;
+   
 }
 #figcaption{
     background-color: black;
