@@ -5,16 +5,21 @@
 #imagem {
  text-align: center;
 }
-.tabela1{
+table{
+    width: 100%;
+    margin-bottom: .5em;
+    table-layout: fixed;
     text-align: center;
-        border-style: solid;
-        border-color:  #c26861;
 }
-.amora{
+td, th {
+    padding: .7em;
+    margin: 0;
+    /*border: 1px solid #ccc;*/
     text-align: center;
-    border-color: #c26861;
 }
-.duque{
-    text-align: center;
-    border-color: #c26861;
+tr{
+    background-color: red;
+}
+td{
+    background-color: #F0F0F0;
 }
