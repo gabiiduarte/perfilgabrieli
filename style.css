@@ -71,8 +71,12 @@ figure img{
     border-radius: 50%;
 }
 footer {
-    height: 100px;
-    background-color: red;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
     background-image: linear-gradient(0deg, red, yellow);
+    color: white;
+    text-align: center;
 }
  
