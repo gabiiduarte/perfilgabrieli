@@ -63,7 +63,7 @@ color c{
 #figcaption{
     background-color: black;
     color:#eff0e3;
-    font-size: itálico;
+   font-style: italic;
     padding: 2px;
     text-align: center;
 }
