@@ -75,7 +75,7 @@ footer {
     left: 0;
     bottom: 0;
     width: 100%;
-    background-color: red;
+    background-image: linear-gradient(#eff0e3, rgb(97, 12, 12));
     color: white;
     text-align: center;
 }
