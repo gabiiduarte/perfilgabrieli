@@ -67,6 +67,14 @@ color c{
     padding: 2px;
     text-align: center;
 }
-#figure img{
-    border-radius:50% ;
+.foorte {
+    position: fixed;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   background-color: red;
+   color: white;
+   text-align: center;
+
 }
+ 
