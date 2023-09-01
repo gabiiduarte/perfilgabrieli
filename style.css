@@ -70,13 +70,3 @@ color c{
 figure img{
     border-radius: 50%;
 }
-#bob{
-    position: fixed;
-   left: 0;
-   bottom: 0;
-   width: 100%;
-   background-image: linear-gradient(#ffffff,#610c0c);
-   color: white;
-   text-align: center;
-}
- 
