@@ -58,7 +58,7 @@ color c{
     border: 1px  #cccccc solid;
     margin: auto;
     width: 50%;
-   
+    padding: 4px;
 }
 #figcaption{
     background-color: black;
