@@ -68,5 +68,5 @@ color c{
     text-align: center;
 }
 #figure img{
-    border: 50%;
+    border-radius:50% ;
 }
