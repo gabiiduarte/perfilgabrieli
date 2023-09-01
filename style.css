@@ -43,8 +43,6 @@ caption{
     font-size: 18;
     color: #ff9900;
 }
-
-
 color a{
     color: #006600;
 }
@@ -76,6 +74,5 @@ footer{
    bottom: 0;
    width: 100%;
    background-image: linear-gradient(#ffffff,#610c0c);
-   color: white;
    text-align: center;
 }
