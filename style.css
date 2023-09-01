@@ -20,7 +20,7 @@ td, th {
     border: 1px solid #6e3838;
     text-align: center;
 }
-tr{
+th{
     background-color: red;
 }
 td{
