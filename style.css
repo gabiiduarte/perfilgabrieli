@@ -77,3 +77,9 @@ footer{
    background-image: linear-gradient(#ffffff,#610c0c);
    text-align: center;
 }
+.boxmodel{
+    width: 300px;
+    border: 15px solid yellow;
+    padding: 50px;
+    margin: 20px;
+}
