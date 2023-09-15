@@ -78,12 +78,12 @@ footer{
    text-align: center;
 }
 .boxmodel{
-    width: 400px;
+    width: 300px;
     border: 15px solid yellow;
     padding: 50px;
     margin: 20px;
-    margin-left: center;
+    margin-left: 400px;
 }
 .bob{
-    margin-left: 400px;
+    text-align: center;
 }
