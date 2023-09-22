@@ -110,3 +110,10 @@ footer{
     cursor: pointer;
     flood-opacity: 0%;
   }
+  .figuree{
+        background-color: black;
+        color:#eff0e3;
+        font-style: italic;
+        padding: 2px;
+        text-align: center;
+  }
