@@ -87,3 +87,13 @@ footer{
 .bob{
     text-align: center;
 }
+.fefo{
+ width: 100px;
+ border: 5px solid black;
+ padding: 12px 20px;
+ margin: 8px 0;
+ box-sizing: border-box;
+}
+input{
+  width: 100%;
+}
