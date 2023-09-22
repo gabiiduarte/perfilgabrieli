@@ -87,3 +87,8 @@ footer{
 .bob{
     text-align: center;
 }
+.boy:after{
+    content: "";
+  display: table;
+  clear: both;
+}
