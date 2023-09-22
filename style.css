@@ -87,3 +87,10 @@ footer{
 .bob{
     text-align: center;
 }
+.cont{
+    width: 300px;
+    border: 15px solid black;
+    padding: 50px;
+    margin: 20px;
+    margin-left: 400px;
+}
