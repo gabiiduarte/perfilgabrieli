@@ -82,9 +82,9 @@ footer{
 }
   /*BOX MODEL INICIO*/
 .boxmodel{
-    width: 320px;
-    padding: 10px;
-    border: 5px solid yellow;
+    width: 310px;
+    padding: 20px;
+    border: 4px solid yellow;
     margin: auto;
   }
   .ti{
@@ -100,7 +100,7 @@ footer{
     text-align: center;
 }
 .fefo{
-    width: 400px;
+    width: 350px;
     height: auto;
     padding: 50px;
     margin: auto;
@@ -120,5 +120,8 @@ footer{
     border-radius: 4px;
     cursor: pointer;
     float: right;
+  }
+  .someclass{
+    width: 250px;
   }
   
