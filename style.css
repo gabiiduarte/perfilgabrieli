@@ -148,7 +148,7 @@ header {
     float: left;
     width: calc(33.33% - 20px);
     box-sizing: border-box;
-    background-color: #ccc;
+    background-color: #f4f4f4;
 }
 .box p {
     font-size: 16px;
