@@ -130,11 +130,10 @@ figure img{
     background-color: #f4f4f4;
 }
 header {
-    background-color: #333;
-    color: #000000;
-    padding: 20px;
-    text-align: center;
     border: 1px;
+    background-color: #333;
+    text-align: center;
+    padding: 20px;
 }
 .container {
     width: 80%;
