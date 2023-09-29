@@ -71,15 +71,15 @@ color c{
 figure img{
     border-radius: 50%;
 }
-footer{
-    /* position: fixed; */
+/*footer{
+    /* position: fixed; 
     position: fixed;
    left: 0;
    bottom: 0;
    width: 100%;
-   background-image: linear-gradient(#ffffff,#610c0c);
+   background-image: linear-gradient(#ffffff,#580808);
    text-align: center;
-}
+}*/
   /*BOX MODEL INICIO*/
 .boxmodel{
     width: 310px;
