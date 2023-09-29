@@ -131,9 +131,10 @@ figure img{
 }
 header {
     background-color: #333;
-    color: #fff;
+    color: #000000;
     padding: 20px;
     text-align: center;
+    border: 1px;
 }
 .container {
     width: 80%;
@@ -149,18 +150,15 @@ header {
     box-sizing: border-box;
     background-color: #fff;
 }
-.box:nth-child(odd) {
-    background-color: #f9f9f9;
+.box p {
+    font-size: 16px;
+    line-height: 1.5;
+    text-align: justify;
 }
 .box h2 {
     font-size: 24px;
     margin-top: 0;
     text-align: center;
-}
-.box p {
-    font-size: 16px;
-    line-height: 1.5;
-    text-align: justify;
 }
 .rodapeBox {
     background-color: #333;
