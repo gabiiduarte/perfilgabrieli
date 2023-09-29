@@ -165,6 +165,7 @@ header {
     color: #fffafa;
     text-align: center;
     padding: 5px;
+    clear: both;
 }
 .vermelho{
   text-transform: uppercase;
