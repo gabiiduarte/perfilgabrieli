@@ -162,10 +162,9 @@ header {
 }
 .rodapeBox {
     background-color: #333;
-    color: #333;
+    color: #fffafa;
     text-align: center;
     padding: 5px;
-    clear: both;
 }
 .vermelho{
   text-transform: uppercase;
