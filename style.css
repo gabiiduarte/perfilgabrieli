@@ -1,5 +1,5 @@
 *{
-    background-color: #ffffff;
+    background-color: #54d6ed;
     font-family: Arial, Helvetica, sans-serif;
 }
 h2{
@@ -131,7 +131,7 @@ figure img{
 }*/
 .head { 
     background-color: #333;
-    color: white;
+    color: #333;
     padding: 20px;
     text-align: center;
 }
@@ -139,7 +139,7 @@ figure img{
     width: 80%;
     margin: 0 auto;
     padding: 20px;
-   }
+}
 .box {
     border: 1px solid #ccc;
     padding: 20px;
