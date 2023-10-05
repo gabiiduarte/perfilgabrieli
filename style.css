@@ -1,5 +1,5 @@
 *{
-    background-color: #ddf0f4;
+    background-color:#ffffff;
     font-family: Arial, Helvetica, sans-serif;
 }
 h2{
@@ -160,7 +160,7 @@ figure img{
     text-align: center;
 }
 .rodapeBox{
-    text-decoration: #333;
+    background-color: #333;
     color: #000000;
     text-align: center;
     padding: 7px;
