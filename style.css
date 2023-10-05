@@ -130,7 +130,7 @@ figure img{
 }*/
 .head { 
     background-color: #333;
-    color: #050404;
+    color: #ffffff;
     padding: 20px;
     text-align: center;
 }
@@ -160,7 +160,7 @@ figure img{
 }
 .rodapeBox{
     background-color: #333;
-    color: #000000;
+    color: #ffffff;
     text-align: center;
     padding: 7px;
     clear: both;
