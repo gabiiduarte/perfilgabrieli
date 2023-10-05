@@ -161,10 +161,12 @@ figure img{
 }
 .rodapeBox{
     background-color: #333;
-    color: #000000;
-    text-align: center;
+    width: 300px;
+    border: 15px #333;
     padding: 7px;
-    clear: both;
+    margin: 20px;
+    text-align: center;
+    clear: both
 }
 .vermelho{
   text-transform: uppercase;
